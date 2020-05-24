@@ -25,7 +25,7 @@ SECRET_KEY = 't5_syll19almd*=@s=^38a9u_k41oek2$j*6keya*l@z8f0h^='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
